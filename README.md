@@ -35,6 +35,7 @@ Note: The model was trained and results were calculated on colab
 - Upload the folder **Pix2Pix-cGAN-Keras** on your google drive
   -The google drive link for the whole folder:
   -https://drive.google.com/drive/folders/1WKSymZRCmlTAOFgQN7zh-uVOO672k8mx?usp=sharing
+- Only **Assets** folder is uploaded on github. The rest is available on the google drive link
 - The directory should look like 
   - **Assets** folder: **/content/drive/My Drive/Pix2Pix-cGAN-Keras/Assets**  
   - **models** folder: **/content/drive/My Drive/Pix2Pix-cGAN-Keras/models**
